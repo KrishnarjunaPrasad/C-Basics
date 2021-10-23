@@ -1,0 +1,38 @@
+#include<stdio.h>
+
+void main ()
+
+{
+
+//variable decleration
+
+int Telugu, Maths, Physics, Science
+
+, English, Hindi, Marks;
+
+// Intilaasation
+
+Telugu= 85;
+
+Maths = 90;
+
+Physics = 90;
+
+Science = 85;
+
+English= 96;
+
+Hindi = 89;
+
+// calucalation
+
+Marks = Telugu + Maths + Physics +
+
+Science + English + Hindi;
+
+// Optput 
+
+ printf(" Telugu %i\n Maths.%d\nPhysics%i\nScience %i\nEnglish %d\n Hindi %d\n Marks %i",Telugu,Maths, Physics, Science, English, Hindi, Marks);
+
+}
+
